@@ -1,0 +1,21 @@
+{
+    "repoApp": {
+        "gk" : {
+            "home": {
+                "title": "Gks",
+                "createLabel": "Create a new Gk",
+                "createOrEditLabel": "Create or edit a Gk"
+            },
+            "created": "A new Gk is created with identifier {{ param }}",
+            "updated": "A Gk is updated with identifier {{ param }}",
+            "deleted": "A Gk is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Gk {{ id }}?"
+            },
+            "detail": {
+                "title": "Gk"
+            },
+            "name": "Name"
+        }
+    }
+}

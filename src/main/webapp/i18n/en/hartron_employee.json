@@ -1,0 +1,20 @@
+{
+    "repoApp": {
+        "hartron_employee" : {
+            "home": {
+                "title": "Hartron Employees",
+                "createLabel": "Create a new Hartron Employee",
+                "createOrEditLabel": "Create or edit a Hartron Employee"
+            },
+            "created": "A new Hartron Employee is created with identifier {{ param }}",
+            "updated": "A Hartron Employee is updated with identifier {{ param }}",
+            "deleted": "A Hartron Employee is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Hartron Employee {{ id }}?"
+            },
+            "detail": {
+                "title": "Hartron Employee"
+            }
+        }
+    }
+}

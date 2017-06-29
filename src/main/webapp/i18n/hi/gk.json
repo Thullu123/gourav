@@ -1,0 +1,21 @@
+{
+    "repoApp": {
+        "gk" : {
+            "home": {
+                "title": "Gks",
+                "createLabel": "नया Gk बनाएँ",
+                "createOrEditLabel": "Gk बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Gk [identifier: {{ param }}] तैयार है",
+            "updated": "एक Gk [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Gk [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Gk [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Gk"
+            },
+            "name": "Name"
+        }
+    }
+}

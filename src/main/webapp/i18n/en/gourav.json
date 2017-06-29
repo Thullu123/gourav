@@ -1,0 +1,21 @@
+{
+    "repoApp": {
+        "gourav" : {
+            "home": {
+                "title": "Gouravs",
+                "createLabel": "Create a new Gourav",
+                "createOrEditLabel": "Create or edit a Gourav"
+            },
+            "created": "A new Gourav is created with identifier {{ param }}",
+            "updated": "A Gourav is updated with identifier {{ param }}",
+            "deleted": "A Gourav is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Gourav {{ id }}?"
+            },
+            "detail": {
+                "title": "Gourav"
+            },
+            "kuchbhi": "Kuchbhi"
+        }
+    }
+}

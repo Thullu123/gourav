@@ -1,0 +1,10 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [],
+    "changelogDate": "20170627101233",
+    "dto": "mapstruct",
+    "service": "serviceImpl",
+    "entityTableName": "hartron_employee",
+    "pagination": "no"
+}

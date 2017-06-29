@@ -1,0 +1,20 @@
+{
+    "repoApp": {
+        "hartron_employee" : {
+            "home": {
+                "title": "Hartron_employees",
+                "createLabel": "नया Hartron Employee बनाएँ",
+                "createOrEditLabel": "Hartron Employee बनाएँ या संपादित करें"
+            },
+            "created": "एक नया Hartron Employee [identifier: {{ param }}] तैयार है",
+            "updated": "एक Hartron Employee [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Hartron Employee [identifier: {{ param }}] हटा दिया है",
+            "delete": {
+                "question": "Hartron Employee [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Hartron Employee"
+            }
+        }
+    }
+}
